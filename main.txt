@@ -15,6 +15,10 @@ int main(int argc, char **argv)
     printf("Hello %s %s!\n", first, last);
 =======
     printf("Hello world!\n");
+        printf("Hello woooooorld!\n");
+            printf("Hello wooooooorld!\n");
+                printf("Hello wooooooooooooorld!\n");
 >>>>>>> parent of 49f05cc (Commit_red_1)
     return 0;
+    
 }
